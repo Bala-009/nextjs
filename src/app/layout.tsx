@@ -20,8 +20,6 @@ export default function RootLayout({
 
       <body className={inter.className}>{children}
       <link href="https://cdn.jsdelivr.net/npm/flowbite@2.4.1/dist/flowbite.min.css"  rel="stylesheet" />
-        
-
       <Script src="../path/to/flowbite/dist/flowbite.min.js" />
       <Script src="https://cdn.jsdelivr.net/npm/flowbite@2.4.1/dist/flowbite.min.js" />
 
